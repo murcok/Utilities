@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SoundFocus</string>
+    <string name="service_notification_title">SoundFocus Attivo</string>
+    <string name="service_notification_desc">Monitoraggio riproduzione musicale per silenziare i messaggi</string>
+</resources>

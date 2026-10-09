@@ -1,0 +1,6 @@
+{
+  "name": "SoundFocus",
+  "description": "Disattiva automaticamente l'audio dei messaggi quando ascolti musica dalla tua app preferita, lasciando sempre passare le chiamate.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
